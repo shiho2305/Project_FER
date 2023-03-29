@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "khanhnv123@gmail.com",
+      "password": "123456",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "khanhddqhe161879@fpt.edu.vn",
+      "password": "123456",
+      "role": "Visitor"
+    },
+    {
+      "id": 3,
+      "name": "Jane Doe",
+      "email": "khanhddqhe2161879@fpt.edu.vn",
+      "password": "123456",
+      "role": "Member"
+    },
+    {
+      "id": 4,
+      "name": "Tung",
+      "email": "khanhnv123@gmail.com.vn",
+      "password": "123456",
+      "role": "Member"
+    },
+    {
+      "id": 5,
+      "name": "tu",
+      "email": "tu123@gmail.com",
+      "password": "123456",
+      "role": "Member"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "image": "./images/img1.jpg",
+      "name": "Vua Hải Tặc",
+      "Year": 2002,
+      "type": "Hoạt HÌnh",
+      "score": 7.65,
+      "typeID": 4
+    },
+    {
+      "id": 2,
+      "image": "./images/img2.png",
+      "name": "Mặt nạ gương",
+      "Year": 2021,
+      "type": "Hành động",
+      "score": 8.5,
+      "typeID": 1
+    },
+    {
+      "id": 3,
+      "image": "./images/img3.jpg",
+      "name": "Về nhà đi con",
+      "Year": 2021,
+      "type": "Tình cảm",
+      "score": 6.75,
+      "typeID": 2
+    },
+    {
+      "id": 4,
+      "image": "./images/img4.png",
+      "name": "Ngõ nhỏ vào đời",
+      "Year": 2022,
+      "type": "Tình cảm",
+      "score": 6.5,
+      "typeID": 2
+    },
+    {
+      "id": 5,
+      "image": "./images/img5.png",
+      "name": "Nỗi ám ảnh",
+      "Year": 2021,
+      "type": "Kinh dị",
+      "score": 6.9,
+      "typeID": 3
+    },
+    {
+      "id": 6,
+      "image": "./images/img5.png",
+      "name": "Nỗi ám ảnh",
+      "Year": 2021,
+      "type": "Kinh dị",
+      "score": 7,
+      "typeID": 3
+    },
+    {
+      "id": 7,
+      "image": "./images/img5.png",
+      "name": "Nỗi ám ảnh",
+      "Year": 2021,
+      "type": "Kinh dị",
+      "score": 8,
+      "typeID": 3
+    },
+    {
+      "id": 8,
+      "image": "./images/img4.png",
+      "name": "Ngõ nhỏ vào đời",
+      "Year": 2022,
+      "type": "Tình cảm",
+      "score": 6.5,
+      "typeID": 2
+    },
+    {
+      "id": 9,
+      "image": "./images/img2.png",
+      "name": "Mặt nạ gương",
+      "Year": 2021,
+      "type": "Hành động",
+      "score": 8.5,
+      "typeID": 1
+    },
+    {
+      "id": 10,
+      "image": "./images/img2.png",
+      "name": "Mặt nạ gương",
+      "Year": 2021,
+      "type": "Hành động",
+      "score": 8.5,
+      "typeID": 1
+    },
+    {
+      "id": 11,
+      "image": "C:\\fakepath\\#4 Các Câu Lệnh Thường Dùng Của Git & Mô Hình Hoạt Động _ Git Siêu Dễ Cho Beginners Từ A Đến Z - YouTube - Google Chrome 1_7_2023 8_39_07 AM.png",
+      "name": "quốc khánh đặng đình",
+      "Year": "2019",
+      "type": "hoat hinh",
+      "score": 0,
+      "typeID": "1"
+    },
+    {
+      "id": 12,
+      "image": "C:\\fakepath\\#4 Các Câu Lệnh Thường Dùng Của Git & Mô Hình Hoạt Động _ Git Siêu Dễ Cho Beginners Từ A Đến Z - YouTube - Google Chrome 1_7_2023 8_39_07 AM.png",
+      "name": "quốc khánh đặng đình22 ",
+      "Year": "2018",
+      "type": "hoat hinh",
+      "score": 0,
+      "typeID": "1"
+    },
+    {
+      "id": 13,
+      "image": "./images/img2.png",
+      "name": "aksljdl l",
+      "Year": "2022",
+      "type": "hoat hinh",
+      "score": 0,
+      "typeID": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
